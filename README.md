@@ -1,6 +1,7 @@
 # soyab_codes
 <h1 align="center">Hi 👋, I'm SOYAB ANSARI</h1>
-<h3 align="center">I am a student of IT(INFORMATION TECNOLOGY) first year in GURU NANAK DEV ENGENEERING COLLAGE</h3>
+<h3 align="center">I am a student of IT (first year) in GURU NANAK DEV ENGENEERING COLLAGE</h3>
+<h3 align="left">My 10+2 marksheet</h3>
 
 - 🌱 I’m currently learning **JAVA coding**
 
