@@ -6,7 +6,9 @@
 
 - 📫 How to reach me **soyabansari659@gmail.com**
 
-- 📄 Certificate [https://www.mygreatlearning.com/certificate/VUPDQNLC](https://www.mygreatlearning.com/certificate/VUPDQNLC)
+- ![Excel Certificate](Hi all, 
+I have successfully completed the "Excel for Beginners" course offered by Great Learning Academy. 
+ #GreatLearningAcademy #greatlearning #glacertificate)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
