@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **soyabansari659@gmail.com**
 
-- ![Excel Certificate](![image](https://github.com/user-attachments/assets/8d9f1b2d-561d-465a-847d-e9e5e94f717d)
-)
+<h3 align="left">**Excel Certificate**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
