@@ -2,6 +2,14 @@
 <h3 align="center">I am a student of IT (first year) in GURU NANAK DEV ENGENEERING COLLAGE</h3>
 <h3 align="left">My 10+2 marksheet</h3>
 
+| Subject     | Total  Marks | Obtain Marks |
+|-------------|-------|-------|
+| Math        |      086     |      086       |
+| Physics     |      073     |      073       |
+| Chemistry   |      081     |      081       |
+| Punjabi     |      093     |      093       |
+| English     |      088     |      088       |
+
 - 🌱 I’m currently learning **JAVA coding**
 
 - 📫 How to reach me **soyabansari659@gmail.com**
