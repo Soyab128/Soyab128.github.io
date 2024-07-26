@@ -3,12 +3,12 @@
 <h3 align="left">My 10+2 marksheet</h3>
 
 | Subject     | Total  Marks | Obtain Marks |
-|-------------|-------|-------|
-| Math        |      086     |      086       |
-| Physics     |      073     |      073       |
-| Chemistry   |      081     |      081       |
-| Punjabi     |      093     |      093       |
-| English     |      088     |      088       |
+|-------------|--------------|----------------|
+| Math        |      100     |      086       |
+| Physics     |      100     |      073       |
+| Chemistry   |      100     |      081       |
+| Punjabi     |      100     |      093       |
+| English     |      100     |      088       |
 
 - 🌱 I’m currently learning **JAVA coding**
 
