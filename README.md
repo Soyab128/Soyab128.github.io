@@ -21,5 +21,5 @@
 
 <h3 align="left">My linkdin profile link:</h3>
 
-https://www.linkedin.com/in/soyab-ansari-746133319?
+https://www.linkedin.com/in/soyab-ansari-746133319
   
