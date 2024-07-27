@@ -19,7 +19,7 @@
 ![Soyab_Ansari20240723-73-k5o7hq (1)](https://github.com/user-attachments/assets/1c357a93-2210-41a4-ae1c-0a315e583221)
 
 
-<h3 align="left">My linkdin profile link:</h3>
+<h3 align="left">[My linkdin profile link]:</h3>
 
-https://www.linkedin.com/in/soyab-ansari-746133319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+(https://www.linkedin.com/in/soyab-ansari-746133319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
