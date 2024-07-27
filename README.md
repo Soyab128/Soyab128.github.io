@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JAVA coding**
 
-- 📫 How to reach me ([**soyabansari659@gmail.com**])
+- 📫 How to reach me [soyabansari659@gmail.com](soyabansari659@gmail.com)
 
 <h3 align="left">Excel Certificate</h3>
 
